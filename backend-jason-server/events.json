@@ -1,0 +1,46 @@
+{
+  "events": [
+    {
+      "id": 101,
+      "name": "Classical Dance program",
+      "area": "Hyderabad",
+      "date": "06-23-2021"
+    },
+    {
+      "id": 102,
+      "name": "Movie Audio Release Event",
+      "area": "Bangalore",
+      "date": "06-24-2021"
+    },
+    {
+      "id": 103,
+      "name": "Tech Talk",
+      "area": "Delhi",
+      "date": "06-25-2021"
+    },
+    {
+      "id": 104,
+      "name": "Professional Development Forum",
+      "area": "Chennai",
+      "date": "07-25-2021"
+    },
+    {
+      "name": null,
+      "area": null,
+      "date": null,
+      "id": 105
+    },
+    {
+      "name": "CIO Summit",
+      "area": "Pune",
+      "date": "06-2-21",
+      "id": 106
+    },
+    {
+      "name": "dance",
+      "area": "hyd",
+      "date": "26-07",
+      "id": 107
+    }
+  ]
+}
